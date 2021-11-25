@@ -16,7 +16,7 @@ Throughout the year, you will demonstrate your understanding of complex programm
 
 To participate in Github Classroom, you will need to create a school Github account by signing up with your school Microsoft account. You may already have received an invitation from your teacher to your school email account, so please check in [Outlook Online](https://office.com/outlook).
 
-**Note: Do not use a personal Github account**. If you forget your login details or your account, you may not have any recourse; by creating a school account, we may be able to help in case of a problem.
+**Note: Do not use a personal Github account**. If you forget your login details or your account, you may not have any recourse and risk **failing your assessment**; by creating a school account, we may be able to help in case of a problem. If you wish to transfer your work to a personal account after you have submitted, you can fork it at the end of the year.
 
 
 ## 2. Accept your assignment

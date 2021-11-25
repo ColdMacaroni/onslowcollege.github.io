@@ -1,3 +1,10 @@
+# Quick links
+
+- 🎓 [Classroom](00.classroom)
+- 💻 [Programming](01.programming)
+- 📈 [Project management](02.project_management)
+- 🔬 [Computer science](0e.compsci)
+
 # Learning objectives
 ## Develop a computer program
 
