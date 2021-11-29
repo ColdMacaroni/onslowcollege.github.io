@@ -1,9 +1,9 @@
-# Quick links
+# 13DTC: Programming & Computer Science
 
-- 🎓 [Classroom](00.classroom)
-- 💻 [Programming](01.programming)
-- 📈 [Project management](02.project_management)
-- 🔬 [Computer science](0e.compsci)
+- 🎓 [Classroom](00.classroom/README.md)
+- 💻 [Programming](01.programming/README.md)
+- 📈 [Project management](02.project_management/README.md)
+- 🔬 [Computer science](0e.compsci/README.md)
 
 # Learning objectives
 ## Develop a computer program
