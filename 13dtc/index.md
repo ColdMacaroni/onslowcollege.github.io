@@ -1,9 +1,9 @@
 # 13DTC: Programming & Computer Science
 
-- 🎓 [Classroom](00.classroom/README.md)
-- 💻 [Programming](01.programming/README.md)
-- 📈 [Project management](02.project_management/README.md)
-- 🔬 [Computer science](0e.compsci/README.md)
+- 🎓 [Classroom](../classroom)
+- 💻 [Programming](programming)
+- 📈 [Project management](projman)
+- 🔬 [Computer science](compsci)
 
 # Learning objectives
 ## Develop a computer program
