@@ -35,6 +35,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+        {% include breadcrumbs.html omit_home=true omit_date=true %}
         {% include toc.html html=content %}
         {{ content }}
 
