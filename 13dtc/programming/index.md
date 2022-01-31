@@ -10,11 +10,11 @@
 3. [🧪 Methods](object-oriented-programming/03.methods.md)
     - learn what class methods are
     - how to declare methods
-4. [📜 Protocols](object-oriented-programming/04.protocols.md)
+4. [📜 Classes I: Protocols](object-oriented-programming/04.classes_01_protocols.md)
     - learn what protocols are used for
     - when and how to declare protocols
     - how to make classes conform to protocols
-5. [👪 Inheritance](object-oriented-programming/05.inheritance.md)
+5. [👪 Classes II: Inheritance](object-oriented-programming/05.classes_02_inheritance.md)
     - learn what inheritance is and what it is used for
     - what base classes, superclasses, and subclasses are
     - how to declare, define, and use subclasses
