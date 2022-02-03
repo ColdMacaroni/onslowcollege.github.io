@@ -19,7 +19,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
         <nav>
             <a href="{{ site.url }}/11dit" class="btn">11DIT</a>
             <a href="{{ site.url }}/12dtc" class="btn">12DTC</a>
@@ -35,9 +35,15 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-        {% include breadcrumbs.html %}
+        {{ page.title }}
         
+        <div>
+        {% include breadcrumbs.html %}
+        </div>
+        
+        <div>
         {% include toc.html html=content %}
+        </div>
         
         {{ content }}
 
