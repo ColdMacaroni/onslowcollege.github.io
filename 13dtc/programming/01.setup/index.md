@@ -40,7 +40,7 @@ On **macOS**:
 
 When OneDrive opens, you should see a window like the one below:
 
-![OneNote sign-in screen](../../../11dit/programming/img/onenote.png)
+![OneNote sign-in screen](../../../11dit/programming/img/onedrive.png)
 
 - Enter your school email address ending in ``@student.onslow.school.nz``
 - Click Sign In

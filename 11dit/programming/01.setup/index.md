@@ -1,3 +1,5 @@
+# 1. Set up your development environment
+
 **Learning intentions**
 
 - Set up your notebook with the necessary software
@@ -40,7 +42,7 @@ On **macOS**:
 
 When OneDrive opens, you should see a window like the one below:
 
-![OneNote sign-in screen](../img/onenote.png)
+![OneNote sign-in screen](../img/onedrive.png)
 
 - Enter your school email address ending in ``@student.onslow.school.nz``
 - Click Sign In

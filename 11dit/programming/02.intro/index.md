@@ -1,8 +1,10 @@
 # 2. (Re)Intro to Python
 
 **Learning Intentions**
-
 - If you learnt Python in 10DIT, to revise the basic Python statements
+  - Assigning and using variables
+  - Printing text and getting input
+  - Converting numbers to strings
 - If you have not learnt Python before, to get to know the basics
 
 **Success Criteria**
@@ -39,7 +41,16 @@ In order to create the program:
 - Write your code on the right
 - Run your code by clicking the Run Python File at the top-right
 
-## 2.1.3 Statements to use
+## 2.1.3 CodeAvengers
+
+Never touched Python before? Need a refresher? Check out these lessons on CodeAvengers:
+
+- [Strings and print statements](https://learn.codeavengers.com/python/11#1.1)
+  - Do parts 1, 2, 3, 4, and 5
+- [Joining things in print statements](https://learn.codeavengers.com/python/11#3.1)
+  - Do parts 1 and 2
+
+## 2.1.4 Statements to use
 
 - ``print()``
   - This function will 'print' the text that is contained within the brackets and quotation marks to the screen
@@ -53,7 +64,7 @@ In order to create the program:
     age = input("How old are you?")
     ```
 
-## 2.1.4 Example output
+## 2.1.5 Example output
 
 ```
 Please type your name: Bob
@@ -76,7 +87,13 @@ For every square metre, the user will need 2 L of paint.
 
 (Yes, this is excessive, but it's an exercise, go with it)
 
-## 2.2.2 Statements to use
+## 2.2.2 CodeAvengers
+
+If you're unsure how to handle numbers in code, try these CodeAvengers activities:
+
+- [Math calculations and operators](https://learn.codeavengers.com/python/11#2.1)
+  - Do parts 1, 2, 3, 4, and 5
+## 2.2.3 Statements to use
 
 This task will involve casting. This means you will convert a variable from a string to an integer. To do this, make use of the ``int()`` function:
 
@@ -101,14 +118,14 @@ This task will involve casting. This means you will convert a variable from a st
     half_age = age / 2
     ```
 
-## 2.2.3 Hint
+## 2.2.4 Hint
 
 If maths isn't your strong point, don't worry. The formula for determining how much paint is needed for the wall is simple:
 ```
 width * height * paint_per_litre
 ```
 
-## 2.2.4 Example output
+## 2.2.5 Example output
 
 ```
 Please type the wall width in metres: 4
