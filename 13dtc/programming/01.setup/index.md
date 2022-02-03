@@ -20,7 +20,9 @@ In 12DTC, you will need to have access to your programs both at school and at ho
 
 ## 1.1.1 Download OneDrive
 
-This step only applies if you own an Apple notebook. You will need to download [OneDrive](https://apps.apple.com/nz/app/onedrive/id823766827?mt=12) from the Mac App Store.
+Download OneDrive:
+- for [Windows 10 and Windows 11](https://www.microsoft.com/en-nz/microsoft-365/onedrive/download) **only** if it is not already installed
+- for [macOS](https://apps.apple.com/nz/app/onedrive/id823766827?mt=12) from the Mac App Store
 
 ## 1.1.2 Run OneDrive
 
