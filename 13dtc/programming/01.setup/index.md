@@ -16,7 +16,7 @@ You will know that you have completed this lesson's learning when:
 
 # Task 1.1: Set up your school OneDrive
 
-In 11DIT, you will need to have access to your programs both at school and at home. The simplest way to achieve this is by using OneDrive.
+In 12DTC, you will need to have access to your programs both at school and at home. The simplest way to achieve this is by using OneDrive.
 
 ## 1.1.1 Download OneDrive
 
@@ -40,7 +40,7 @@ On **macOS**:
 
 When OneDrive opens, you should see a window like the one below:
 
-![OneNote sign-in screen](../img/onenote.png)
+![OneNote sign-in screen](../../../11dit/programming/img/onenote.png)
 
 - Enter your school email address ending in ``@student.onslow.school.nz``
 - Click Sign In
@@ -54,7 +54,7 @@ From this point onwards, make sure **all** your work is saved to OneDrive. If yo
 
 ## 1.2.1 Download Python
 
-In 11DIT, you will learn Python. This programming language is easy to learn for beginners.
+In 12DIT, you will continue learning Python.
 
 To use Python, you will need to download and install it on your computer.
 
@@ -80,14 +80,14 @@ For both Windows and macOS, double-click on the file that you downloaded in step
 
 Open Visual Studio Code on your computer. When you first open it, you will see a window like this:
 
-![First-run screen for Visual Studio Code](../img/vscode01.png)
+![First-run screen for Visual Studio Code](../../../11dit/programming/img/vscode01.png)
 
 - Click ``View menu → Command Palette…`` or press F1 (Windows) or Cmd-Shift-P (macOS) to show the Command Palette.
   - A text box will show at the top of the screen. 
   - Type "select interpreter". You will see an option called "Python: Select Interpreter" in the menu. Click on it.
-    - ![Command palette](../img/vscode02.png)
+    - ![Command palette](../../../11dit/programming/img/vscode02.png)
   - Click on the option for Python 3.10.2
-    - ![Python interpreter selection](../img/vscode03.png)
+    - ![Python interpreter selection](../../../11dit/programming/img/vscode03.png)
 
 ## 1.2.6 Set up Settings Sync in Visual Studio Code
 
@@ -104,14 +104,14 @@ If you use Visual Studio Code on a different computer, you will be able to repea
 
 ## 1.2.7 Set up extensions for Visual Studio Code
 
-![Installing an extension](../img/ext-install.png)
+![Installing an extension](../../../11dit/programming/img/ext-install.png)
 
 There are a few useful extensions for Visual Studio Code that can make programming a lot easier. Extensions give Visual Studio Code new features to improve the development experience.
 
 - Click on the Extensions icon in the sidebar
   - It looks like a grid with a piece missing
 
-![Extensions icon](../img/icon_exts.png)
+![Extensions icon](../../../11dit/programming/img/icon_exts.png)
 
 
 In the search field at the top, search for and install these extensions:
@@ -119,7 +119,19 @@ In the search field at the top, search for and install these extensions:
   - Adds support for the Python language. This may already be installed.
 - **Pylance** (by Microsoft)
   - Improved Python language support. This may already be installed.
+- **Pip Manager** (by slightc)
+  - Download Python packages from Visual Studio Code.
+- **GitLens** (by GitKraken)
+  - Improved Git integration.
+- **Github Classroom** (by GitHub)
+  - Integrated access to Github Classroom exercises.
 - **Error Lens** (by Alexander)
   - Shows the line where coding errors are occurring as well as a hint on how to fix it
 - **indent-rainbow** (by oderwat)
-  - Shows your current indentation level using colours. Very useful for Python since indentation is part of the language
+  - Shows your current indentation level using colours
+- **Markdown All in One** (by Yu Zhang)
+  - Preview Markdown documents in Visual Studio Code while you write them.
+
+## 1.2.8 Sign in to Github Classroom
+
+Some of the tasks you will do this year are located on Github Classrooms. To make it easy to download the tasks, complete them, and test them, you need to sign in to Github.
