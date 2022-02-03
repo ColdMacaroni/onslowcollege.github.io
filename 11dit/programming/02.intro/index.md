@@ -1,6 +1,7 @@
 # 2. (Re)Intro to Python
 
 **Learning Intentions**
+
 - If you learnt Python in 10DIT, to revise the basic Python statements
   - Assigning and using variables
   - Printing text and getting input
