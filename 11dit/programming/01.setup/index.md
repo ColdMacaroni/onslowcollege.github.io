@@ -40,7 +40,7 @@ On **macOS**:
 
 When OneDrive opens, you should see a window like the one below:
 
-![OneNote sign-in screen](img/onenote.png)
+![OneNote sign-in screen](../img/onenote.png)
 
 - Enter your school email address ending in ``@student.onslow.school.nz``
 - Click Sign In
@@ -85,9 +85,9 @@ Open Visual Studio Code on your computer. When you first open it, you will see a
 - Click ``View menu → Command Palette…`` or press F1 (Windows) or Cmd-Shift-P (macOS) to show the Command Palette.
   - A text box will show at the top of the screen. 
   - Type "select interpreter". You will see an option called "Python: Select Interpreter" in the menu. Click on it.
-    - ![Command palette](img/vscode02.png)
+    - ![Command palette](../img/vscode02.png)
   - Click on the option for Python 3.10.2
-    - ![Python interpreter selection](img/vscode03.png)
+    - ![Python interpreter selection](../img/vscode03.png)
 
 ## 1.2.6 Set up Settings Sync in Visual Studio Code
 
@@ -104,14 +104,14 @@ If you use Visual Studio Code on a different computer, you will be able to repea
 
 ## 1.2.7 Set up extensions for Visual Studio Code
 
-![Installing an extension](img/ext-install.png)
+![Installing an extension](../img/ext-install.png)
 
 There are a few useful extensions for Visual Studio Code that can make programming a lot easier. Extensions give Visual Studio Code new features to improve the development experience.
 
 - Click on the Extensions icon in the sidebar
   - It looks like a grid with a piece missing
 
-![Extensions icon](img/icon_exts.png)
+![Extensions icon](../img/icon_exts.png)
 
 
 In the search field at the top, search for and install these extensions:
