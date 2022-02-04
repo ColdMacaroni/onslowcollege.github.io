@@ -16,7 +16,7 @@ You will know that you have completed this lesson's learning when:
 
 # Task 1.1: Set up your school OneDrive
 
-In 12DTC, you will need to have access to your programs both at school and at home. The simplest way to achieve this is by using OneDrive.
+In 13DTC, you will need to have access to your programs both at school and at home. The simplest way to achieve this is by using OneDrive.
 
 ## 1.1.1 Download OneDrive
 
@@ -56,7 +56,7 @@ From this point onwards, make sure **all** your work is saved to OneDrive. If yo
 
 ## 1.2.1 Download Python
 
-In 12DIT, you will continue learning Python.
+In 13DTC, you will continue learning Python.
 
 To use Python, you will need to download and install it on your computer.
 
