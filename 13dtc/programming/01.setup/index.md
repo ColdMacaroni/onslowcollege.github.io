@@ -84,25 +84,12 @@ Open Visual Studio Code on your computer. When you first open it, you will see a
 
 ![First-run screen for Visual Studio Code](../../../11dit/programming/img/vscode01.png)
 
-- Click ``View menu → Command Palette…`` or press F1 (Windows) or Cmd-Shift-P (macOS) to show the Command Palette.
-  - A text box will show at the top of the screen. 
-  - Type "select interpreter". You will see an option called "Python: Select Interpreter" in the menu. Click on it.
-    - ![Command palette](../../../11dit/programming/img/vscode02.png)
-  - Click on the option for Python 3.10.2
-    - ![Python interpreter selection](../../../11dit/programming/img/vscode03.png)
+## 1.2.6 Download Git
 
-## 1.2.6 Set up Settings Sync in Visual Studio Code
+[Download Git](https://git-scm.com/download/)
+## 1.2.7 Install Git
 
-- Show the Command Palette (instructions in 1.2.5)
-- Type "settings sync"
-- Click on "Settings Sync: Configure"
-- Click OK
-![Settings Sync configuration](img/vscode04.png)
-- Click to sign in with your Microsoft account
-  - Use your school email address and password to log in
-  - Do **NOT** use your personal email address
-
-If you use Visual Studio Code on a different computer, you will be able to repeat this process on it to use the same settings for all your computers.
+For both Windows and macOS, double-click oon the file that you downloaded is step 1.2.6.
 
 ## 1.2.7 Set up extensions for Visual Studio Code
 
@@ -114,7 +101,6 @@ There are a few useful extensions for Visual Studio Code that can make programmi
   - It looks like a grid with a piece missing
 
 ![Extensions icon](../../../11dit/programming/img/icon_exts.png)
-
 
 In the search field at the top, search for and install these extensions:
 - **Python** (by Microsoft)
@@ -134,6 +120,28 @@ In the search field at the top, search for and install these extensions:
 - **Markdown All in One** (by Yu Zhang)
   - Preview Markdown documents in Visual Studio Code while you write them.
 
-## 1.2.8 Sign in to Github Classroom
+## 1.2.8 Set up Visual Studio Code to use Python 3.10.2
+
+- Click ``View menu → Command Palette…`` or press F1 (Windows) or Cmd-Shift-P (macOS) to show the Command Palette.
+  - A text box will show at the top of the screen. 
+  - Type "select interpreter". You will see an option called "Python: Select Interpreter" in the menu. Click on it.
+    - ![Command palette](../../../11dit/programming/img/vscode02.png)
+  - Click on the option for Python 3.10.2
+    - ![Python interpreter selection](../../../11dit/programming/img/vscode03.png)
+
+## 1.2.9 Set up Settings Sync in Visual Studio Code
+
+- Show the Command Palette (instructions in 1.2.5)
+- Type "settings sync"
+- Click on "Settings Sync: Configure"
+- Click OK
+![Settings Sync configuration](img/vscode04.png)
+- Click to sign in with your Microsoft account
+  - Use your school email address and password to log in
+  - Do **NOT** use your personal email address
+
+If you use Visual Studio Code on a different computer, you will be able to repeat this process on it to use the same settings for all your computers.
+
+## 1.2.10 Sign in to Github Classroom
 
 Some of the tasks you will do this year are located on Github Classrooms. To make it easy to download the tasks, complete them, and test them, you need to sign in to Github.

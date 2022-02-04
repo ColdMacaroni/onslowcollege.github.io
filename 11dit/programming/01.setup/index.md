@@ -22,7 +22,9 @@ In 11DIT, you will need to have access to your programs both at school and at ho
 
 ## 1.1.1 Download OneDrive
 
-This step only applies if you own an Apple notebook. You will need to download [OneDrive](https://apps.apple.com/nz/app/onedrive/id823766827?mt=12) from the Mac App Store.
+Download OneDrive:
+- for [Windows 10 and Windows 11](https://www.microsoft.com/en-nz/microsoft-365/onedrive/download) **only** if it is not already installed
+- for [macOS](https://apps.apple.com/nz/app/onedrive/id823766827?mt=12) from the Mac App Store
 
 ## 1.1.2 Run OneDrive
 
@@ -84,6 +86,29 @@ Open Visual Studio Code on your computer. When you first open it, you will see a
 
 ![First-run screen for Visual Studio Code](../img/vscode01.png)
 
+## 1.2.6 Set up extensions for Visual Studio Code
+
+![Installing an extension](../img/ext-install.png)
+
+There are a few useful extensions for Visual Studio Code that can make programming a lot easier. Extensions give Visual Studio Code new features to improve the development experience.
+
+- Click on the Extensions icon in the sidebar
+  - It looks like a grid with a piece missing
+
+![Extensions icon](../img/icon_exts.png)
+
+In the search field at the top, search for and install these extensions:
+- **Python** (by Microsoft)
+  - Adds support for the Python language. This may already be installed.
+- **Pylance** (by Microsoft)
+  - Improved Python language support. This may already be installed.
+- **Error Lens** (by Alexander)
+  - Shows the line where coding errors are occurring as well as a hint on how to fix it
+- **indent-rainbow** (by oderwat)
+  - Shows your current indentation level using colours. Very useful for Python since indentation is part of the language
+
+## 1.2.7 Set up Visual Studio Code to use Python 3.10.2
+
 - Click ``View menu → Command Palette…`` or press F1 (Windows) or Cmd-Shift-P (macOS) to show the Command Palette.
   - A text box will show at the top of the screen. 
   - Type "select interpreter". You will see an option called "Python: Select Interpreter" in the menu. Click on it.
@@ -91,7 +116,7 @@ Open Visual Studio Code on your computer. When you first open it, you will see a
   - Click on the option for Python 3.10.2
     - ![Python interpreter selection](../img/vscode03.png)
 
-## 1.2.6 Set up Settings Sync in Visual Studio Code
+## 1.2.8 Set up Settings Sync in Visual Studio Code
 
 - Show the Command Palette (instructions in 1.2.5)
 - Type "settings sync"
@@ -103,25 +128,3 @@ Open Visual Studio Code on your computer. When you first open it, you will see a
   - Do **NOT** use your personal email address
 
 If you use Visual Studio Code on a different computer, you will be able to repeat this process on it to use the same settings for all your computers.
-
-## 1.2.7 Set up extensions for Visual Studio Code
-
-![Installing an extension](../img/ext-install.png)
-
-There are a few useful extensions for Visual Studio Code that can make programming a lot easier. Extensions give Visual Studio Code new features to improve the development experience.
-
-- Click on the Extensions icon in the sidebar
-  - It looks like a grid with a piece missing
-
-![Extensions icon](../img/icon_exts.png)
-
-
-In the search field at the top, search for and install these extensions:
-- **Python** (by Microsoft)
-  - Adds support for the Python language. This may already be installed.
-- **Pylance** (by Microsoft)
-  - Improved Python language support. This may already be installed.
-- **Error Lens** (by Alexander)
-  - Shows the line where coding errors are occurring as well as a hint on how to fix it
-- **indent-rainbow** (by oderwat)
-  - Shows your current indentation level using colours. Very useful for Python since indentation is part of the language
