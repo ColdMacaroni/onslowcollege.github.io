@@ -62,9 +62,8 @@ You will also use Git to perform version control of your code and documentation.
 
 # Standards
 
-- Programming and project management (12 credits)
+- Programming and project management (15 credits)
     - [**AS91906**: Use complex programming techniques to develop a computer program](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91906.pdf) (6 credits)
-    - [**AS91907**: Use complex processes to develop a digital technologies outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91897.pdf) (6 credits)
-- External assessments (6 credits)
+    - [**AS91907**: Use complex processes to develop a digital technologies outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91907.pdf) (6 credits)
+- External assessments (3 credits)
     - [**AS91908**: Analyse an area of computer science](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91908.pdf) (3 credits)
-    - [**AS91909**: Presenting a reflective analysis of developing a digital outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91909.pdf) (3 credits)
