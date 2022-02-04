@@ -29,6 +29,17 @@
     - using information appropriately from trialling and testing to improve the functionality of the digital technologies outcome
 - explaining and addressing relevant implications
 
+## Use advanced techniques to develop a database
+
+- designing, organising, and querying the data logically
+- using appropriate tools and [advanced techniques](#database-techniques) to organise, query, and present data for a purpose and end users
+- trialling, testing, and improving
+  - applying appropriate data integrity and testing procedures
+  - using information from testing procedures to improve the quality of the database
+- explaining and addressing relevant implications
+- iterative improvement throughout the design, development, and testing process
+- presenting the data effectively for the purpose and end users
+
 # Advanced tools and techniques
 
 ## Programming techniques
@@ -60,10 +71,19 @@ In 12DTC, you will learn to use Github Planner. This tool contains features to p
 
 You will also use Git to perform version control of your code and documentation.
 
+## Database techniques
+
+- linking data in related tables or nodes using queries or keys
+- writing custom queries to filter and/or sort data
+- using logical, mathematical, and/or wildcard operators
+- customising presentation of the data
+- using custom forms to add user input to the database
+- setting validation rules for data entry
 # Standards
 
-- Programming and project management (15 credits)
+- Programming and project management (16 credits)
     - [**AS91896**: Use advanced programming techniques to develop a computer program](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91896.pdf) (6 credits)
     - [**AS91897**: Use advanced processes to develop a digital technologies outcome](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91897.pdf) (6 credits)
+    - [**AS91892**: Use advanced techniques to develop a database](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91897.pdf) (4 credits)
 - External assessments (3 credits)
     - [**AS91898**: Demonstrate understanding of a computer science concept](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91898.pdf) (3 credits)
