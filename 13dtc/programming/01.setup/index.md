@@ -117,21 +117,21 @@ There are a few useful extensions for Visual Studio Code that can make programmi
 ![Extensions icon](../../../11dit/programming/img/icon_exts.png)
 
 In the search field at the top, search for and install these extensions:
-- **Python** (by Microsoft)
+- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) (by Microsoft)
   - Adds support for the Python language. This may already be installed.
-- **Pylance** (by Microsoft)
+- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) (by Microsoft)
   - Improved Python language support. This may already be installed.
-- **Pip Manager** (by slightc)
+- [**Pip Manager**](https://marketplace.visualstudio.com/items?itemName=slightc.pip-manager) (by slightc)
   - Download Python packages from Visual Studio Code.
-- **GitLens** (by GitKraken)
+- [**GitLens**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) (by GitKraken)
   - Improved Git integration.
-- **Github Classroom** (by GitHub)
+- [**Github Classroom**](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) (by GitHub)
   - Integrated access to Github Classroom exercises.
-- **Error Lens** (by Alexander)
+- [**Error Lens**](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) (by Alexander)
   - Shows the line where coding errors are occurring as well as a hint on how to fix it
-- **indent-rainbow** (by oderwat)
+- [**indent-rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) (by oderwat)
   - Shows your current indentation level using colours
-- **Markdown All in One** (by Yu Zhang)
+- [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) (by Yu Zhang)
   - Preview Markdown documents in Visual Studio Code while you write them.
 
 ## 1.5.2 Set up Visual Studio Code to use Python 3.10.2
