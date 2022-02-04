@@ -3,6 +3,7 @@
 - 🎓 [Classroom](../classroom)
 - 💻 [Programming](programming)
 - 📈 [Project management](projman)
+- 📊 [Database](database)
 - 🔬 [Computer science](compsci)
 
 # Learning objectives
