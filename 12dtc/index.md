@@ -80,7 +80,7 @@ You will also use Git to perform version control of your code and documentation.
 - customising presentation of the data
 - using custom forms to add user input to the database
 - setting validation rules for data entry
-- 
+
 # Standards
 
 - Programming and project management (16 credits)
