@@ -1,5 +1,3 @@
-# 1. Set up your development environment
-
 **Learning intentions**
 
 - Set up your notebook with the necessary software
@@ -18,7 +16,7 @@ You will know that you have completed this lesson's learning when:
 
 # Task 1.1: Set up your school OneDrive
 
-In 11DIT, you will need to have access to your programs both at school and at home. The simplest way to achieve this is by using OneDrive.
+In 12DTC, you will need to have access to your programs both at school and at home. The simplest way to achieve this is by using OneDrive.
 
 ## 1.1.1 Download OneDrive
 
@@ -44,7 +42,7 @@ On **macOS**:
 
 When OneDrive opens, you should see a window like the one below:
 
-![OneNote sign-in screen](../img/onedrive.png)
+![OneNote sign-in screen](../../../11dit/programming/img/onedrive.png)
 
 - Enter your school email address ending in ``@student.onslow.school.nz``
 - Click Sign In
@@ -54,48 +52,69 @@ After you have signed in and set up OneDrive, your files will sync to your noteb
 
 From this point onwards, make sure **all** your work is saved to OneDrive. If you save any files on the school computer or your network drive, you will **not** be able to access your work at home.
 
-# Task 1.2: Set up your programming environment
+# Task 1.2: Set up Python
 
 ## 1.2.1 Download Python
 
-In 11DIT, you will learn Python. This programming language is easy to learn for beginners.
+In 12DIT, you will continue learning Python.
 
 To use Python, you will need to download and install it on your computer.
 
 Download Python 3.10.2:
 - for [Windows 10 and Windows 11](https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe)
 - for [macOS](https://www.python.org/ftp/python/3.10.2/python-3.10.2-macos11.pkg)
+- for Ubuntu Linux, use the [``pyenv-installer``](https://github.com/pyenv/pyenv-installer)
 
 ## 1.2.2 Install Python
 
 For both Windows and macOS, double-click on the file that you downloaded in step 1.2.1.
 
-## 1.2.3 Download Visual Studio Code
+For Ubuntu Linux, after you have installed ``pyenv``, open the Terminal app and run the following commands:
+  - ```
+    pyenv install 3.10.2
+    pyenv global 3.10.2
+    ```
+
+# Task 1.3: Set up Visual Studio Code
+## 1.3.1 Download Visual Studio Code
 
 To edit your Python code, you will use Visual Studio Code. This is an integrated development environment that makes it easy to manage your Python files, test code, and get helpful suggestions when you're editing code.
 
 [Download Visual Studio Code for Windows and macOS](https://code.visualstudio.com)
 
-## 1.2.4 Install Visual Studio Code
+## 1.3.2 Install Visual Studio Code
 
 For both Windows and macOS, double-click on the file that you downloaded in step 1.2.3.
 
-## 1.2.5 Set up Visual Studio Code to use Python 3.10.2
-
 Open Visual Studio Code on your computer. When you first open it, you will see a window like this:
 
-![First-run screen for Visual Studio Code](../img/vscode01.png)
+![First-run screen for Visual Studio Code](../../../11dit/programming/img/vscode01.png)
 
-## 1.2.6 Set up extensions for Visual Studio Code
+# Task 1.4: Set up Git
+## 1.4.1 Download and install Git
 
-![Installing an extension](../img/ext-install.png)
+- Windows: [Download Git for Windows](https://git-scm.com/download/)
+- macOS: Open the Terminal app and run the following command:
+  - ```
+    xcode-select --install
+    ```
+- Ubuntu: Open the Terminal app and run the following command:
+  - ```
+    sudo apt install build-essential
+    ```
+
+# Task 1.5: Set up Visual Studio Code
+
+## 1.5.1 Set up extensions for Visual Studio Code
+
+![Installing an extension](../../../11dit/programming/img/ext-install.png)
 
 There are a few useful extensions for Visual Studio Code that can make programming a lot easier. Extensions give Visual Studio Code new features to improve the development experience.
 
 - Click on the Extensions icon in the sidebar
   - It looks like a grid with a piece missing
 
-![Extensions icon](../img/icon_exts.png)
+![Extensions icon](../../../11dit/programming/img/icon_exts.png)
 
 In the search field at the top, search for and install these extensions:
 - **Python** (by Microsoft)
@@ -105,18 +124,18 @@ In the search field at the top, search for and install these extensions:
 - **Error Lens** (by Alexander)
   - Shows the line where coding errors are occurring as well as a hint on how to fix it
 - **indent-rainbow** (by oderwat)
-  - Shows your current indentation level using colours. Very useful for Python since indentation is part of the language
+  - Shows your current indentation level using colours
 
-## 1.2.7 Set up Visual Studio Code to use Python 3.10.2
+## 1.5.2 Set up Visual Studio Code to use Python 3.10.2
 
 - Click ``View menu → Command Palette…`` or press F1 (Windows) or Cmd-Shift-P (macOS) to show the Command Palette.
   - A text box will show at the top of the screen. 
   - Type "select interpreter". You will see an option called "Python: Select Interpreter" in the menu. Click on it.
-    - ![Command palette](../img/vscode02.png)
+    - ![Command palette](../../../11dit/programming/img/vscode02.png)
   - Click on the option for Python 3.10.2
-    - ![Python interpreter selection](../img/vscode03.png)
+    - ![Python interpreter selection](../../../11dit/programming/img/vscode03.png)
 
-## 1.2.8 Set up Settings Sync in Visual Studio Code
+## 1.5.3 Set up Settings Sync in Visual Studio Code
 
 - Show the Command Palette (instructions in 1.2.5)
 - Type "settings sync"
