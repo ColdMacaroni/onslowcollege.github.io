@@ -98,13 +98,13 @@ There are a few useful extensions for Visual Studio Code that can make programmi
 ![Extensions icon](../img/icon_exts.png)
 
 In the search field at the top, search for and install these extensions:
-- **Python** (by Microsoft)
+- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) (by Microsoft)
   - Adds support for the Python language. This may already be installed.
-- **Pylance** (by Microsoft)
+- [**Pylance**](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) (by Microsoft)
   - Improved Python language support. This may already be installed.
-- **Error Lens** (by Alexander)
+- [**Error Lens**](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) (by Alexander)
   - Shows the line where coding errors are occurring as well as a hint on how to fix it
-- **indent-rainbow** (by oderwat)
+- [**indent-rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) (by oderwat)
   - Shows your current indentation level using colours. Very useful for Python since indentation is part of the language
 
 ## 1.2.7 Set up Visual Studio Code to use Python 3.10.2
