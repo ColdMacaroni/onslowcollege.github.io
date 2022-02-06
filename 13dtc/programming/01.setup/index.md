@@ -56,7 +56,7 @@ From this point onwards, make sure **all** your work is saved to OneDrive. If yo
 
 ## 1.2.1 Download Python
 
-In 12DIT, you will continue learning Python.
+In 13DIT, you will continue learning Python.
 
 To use Python, you will need to download and install it on your computer.
 
@@ -143,7 +143,15 @@ In the search field at the top, search for and install these extensions:
   - Click on the option for Python 3.10.2
     - ![Python interpreter selection](../../../11dit/programming/img/vscode03.png)
 
-## 1.5.3 Set up Settings Sync in Visual Studio Code
+## 1.5.3 Set up Pytest
+
+- After you have installed the Pip Manager extension, click on the Pip Manager icon on the left (it looks like a book or three stacked sheets of paper)
+- Click the ``+`` button at the top
+- In the Command Palette, type ``pytest`` and press Enter
+
+# Task 1.6 Set up Settings Sync
+
+## 1.6.1 Set up Settings Sync in Visual Studio Code
 
 - Show the Command Palette (instructions in 1.2.5)
 - Type "settings sync"

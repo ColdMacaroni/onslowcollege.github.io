@@ -18,7 +18,7 @@ You will know that you have completed this lesson's learning when:
 
 ## Welcome (back) to Python! 🐍
 
-If you took 10DIT at Onslow College last year, then welcome back! It's time to get our minds back into programming. Hopefully you haven't forgotten all your Python — if you have, don't worry, it's just like riding a bike! (and if you haven't been on a bike before, don't worry, it'll all come back just the same!) To reintroduce ourselves to the basics of Python, let's first set up the Python environment.
+If you took 10DIT at Onslow College last year, then welcome back! It's time to get our minds back into programming. Hopefully you haven't forgotten all your Python — if you have, don't worry, it's just like riding a bike! (and if you haven't been on a bike before, don't worry, it'll all come back just the same!)
 
 --------
 
