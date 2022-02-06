@@ -91,7 +91,7 @@ Type m for metres or f for feet: f
 Your room is 29.52756 ft²
 ```
 
-# Task 2.3: Calculate the room volume
+# Task 2.3 Calculate the room volume
 
 > **Filename**: area.py
 
@@ -108,8 +108,6 @@ In this task, you will be asked to improve the room area calculator with the fol
 - ``if``
 - ``else``
 - ``*``
-- Constants
-- Lists
 
 ## 2.3.3 Example output
 
@@ -124,7 +122,7 @@ Type m for metres or f for feet: m
 Your room is 13.5 m³
 ```
 
-# Task 2.4: Remove furniture from the volume
+# Task 2.4 Extension: remove furniture from the volume
 
 > **Filename**: area.py
 
@@ -143,6 +141,8 @@ In this task, you will be asked to improve the room area calculator with the fol
 - ``if``
 - ``else``
 - ``*``
+- Constants
+- Lists
 
 ## 2.4.3 Volumes
 
