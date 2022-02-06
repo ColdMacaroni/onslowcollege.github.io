@@ -9,7 +9,7 @@ h1 {
 }
 
 h1 .project-name {
-  padding-top: 0;
-  border-top: 0px;
-  border-bottom: 1px solid white;
+  padding-top: 0 !important;
+  border-top: 0 !important;
+  border-bottom: 1px solid white !important;
 }
